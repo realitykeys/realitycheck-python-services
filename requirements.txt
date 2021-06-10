@@ -13,7 +13,7 @@ coincurve==7.1.0
 cryptography==2.2.2
 cytoolz==0.9.0.1
 decorator==4.3.0
-Django==2.0.6
+Django==2.2.24
 eth-abi==1.1.1
 eth-account==0.2.3
 eth-bloom==1.0.0
